@@ -1,0 +1,67 @@
+//////////////////////////////
+
+   × - Multiply
+   ÷ - Divide
+   ← - Arrow Left
+   → - Arrow Right
+   ↑ - Arrow Up
+   ↓ - Arrow Down
+   ↔ - Arrow Left Right
+   ↕ - Arrow Up Down
+   ↖ - Arrow Up Left
+   ↗ - Arrow Up Right
+   ↘ - Arrow Down Right
+   ↙ - Arrow Down Left
+   ⌂ - House
+   ⌘ - Apple
+   ⌥ - Option
+   ⌫ - Backspace
+   ⌦ - Delete
+   ⌧ - Clear
+   〉- Right Arrow
+  〈 - Left Arrow
+   ⍟ - Asterisk
+   ⍻ - Checkmark
+   ⎋ - Escape
+   ⎈ - Control
+
+
+//////////////////////////////
+
+   ┏━┓
+   ┃ ┃
+   ┣━┨
+   ┃ ┃
+   ┗━┛
+
+   ┌─┐
+   │ │
+   ├─┤
+   │ │
+   └─┘
+
+   ╔═╗
+   ║ ║
+   ╠═╣
+   ║ ║
+   ╚═╝
+
+   ╓─╖
+   ║ ║
+   ╟─╢
+   ║ ║
+   ╙─╜
+
+   ╒═╕
+   │ │
+   ╞═╡
+   │ │
+   ╘═╛
+
+   ╭─╮
+   │ │
+   ├─┤
+   │ │
+   ╰─╯
+
+//////////////////////////////
